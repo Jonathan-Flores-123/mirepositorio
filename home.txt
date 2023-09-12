@@ -11,4 +11,6 @@ Servicios con tres tarjetas
 
 Llamada a una acción
 
+Mostar los logos de los auspiciadores
+
 Pie de página 
