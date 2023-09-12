@@ -1,0 +1,14 @@
+Página Principal
+---------------------------
+
+Logo y la opción de buscar
+
+Creando un menú con opciones
+
+Slider con 3 imágenes
+
+Servicios con tres tarjetas
+
+Llamada a una acción
+
+Pie de página 
